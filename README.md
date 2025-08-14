@@ -1,4 +1,4 @@
-![](kermit_1.jpg)
+![](kermit_1.png)
 
 
 ## 🌐 Socials:
