@@ -6,7 +6,7 @@
 
 # 💫 About Me:
 ## *A Little Bit About Me*<br><br>🎓 I earned my **B.S. from NYU Tandon School of Engineering**.<br>📚 I am currently pursuing my **M.S. at Georgia Institute of Technology**. 
-## *Publications*<br><br>🔍 [From Unstable Electrode Contacts to Reliable Control: A Deep Learning Approach for HD-sEMG in Neurorobotics](https://ieeexplore.ieee.org/document/10610638)<br>🤖 [Hand Gesture Recognition via Transient sEMG Using Transfer Learning of Dilated Efficient CapsNet: Towards Generalization for Neurorobotics](https://ieeexplore.ieee.org/document/9830886)<br><br>🏎️ Worked at **General Motors** as a Data Scientist in both the **ADAS team** and the **Hydrogen Fuel Cell Team** <br><br>🎮✨ At my core, I'm passionate about turning theoretical ideas into real-world innovations. In my spare time, I work on passion projects, including a competitive math game called **Sum Slam** available on [BlueJai](https://bluejai.net/) <br>
+## *Publications*<br><br>🔍 [From Unstable Electrode Contacts to Reliable Control: A Deep Learning Approach for HD-sEMG in Neurorobotics](https://ieeexplore.ieee.org/document/10610638)<br>🤖 [Hand Gesture Recognition via Transient sEMG Using Transfer Learning of Dilated Efficient CapsNet: Towards Generalization for Neurorobotics](https://ieeexplore.ieee.org/document/9830886)<br><br>🏎️ Worked at **General Motors** as a Data Scientist in both the **ADAS team** and the **Hydrogen Fuel Cell Team** <br><br>🎮✨ At my core, I'm passionate about turning theoretical ideas into real-world innovations.
 
 <!--# 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=jdotAi&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
